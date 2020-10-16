@@ -1,0 +1,1 @@
+curl -d '{ "alarmState": 1 }' https://fwdzkyk2mc.execute-api.eu-west-2.amazonaws.com/dev/YOUR_KEY
